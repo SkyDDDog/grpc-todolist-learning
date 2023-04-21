@@ -1,0 +1,2 @@
+time="2023-01-23 14:01:39" level=info msg="userService--rpc error: code = Unavailable desc = name resolver error: produced zero addresses"
+time="2023-01-23 14:02:26" level=info msg="userService--rpc error: code = Unavailable desc = name resolver error: produced zero addresses"
